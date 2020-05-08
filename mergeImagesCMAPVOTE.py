@@ -16,7 +16,7 @@ def main(argv):
     numfiles = len(argv)
 
     # threshold of votes , hardcode for now
-    th = 2
+    th = 0
 
     # Color map file is simply a file with **RGB** values on each line
     # separated by space
